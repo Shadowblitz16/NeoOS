@@ -1,5 +1,5 @@
 # NeoOS
-A Operating System that runs a 100% interpeted memory safe C# like language in ring 0
+A Operating System that runs a interpeted memory safe C# like language in ring 0
 
 # The idea
 - Write a 100% memory safe interpreted language in rust with simular syntax to C#
